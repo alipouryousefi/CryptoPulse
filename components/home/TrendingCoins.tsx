@@ -62,7 +62,6 @@ const TrendingCoins = async () => {
     undefined,
     300,
   );
-  console.log(trendingCoins)
   return (
     <div id="trending-coins">
       <h4>Trending Coins</h4>
